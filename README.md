@@ -1,7 +1,6 @@
 # Operating System Simulator
 C++ Project for Operating Systems Course of 4th Semester at FAST NUCES.  
-In this project, I was tasked to develop an operating system simulator. The simulator will 
-be developed using concepts of operating systems which we had studied during the 
+In this project, I was tasked to develop an operating system simulator. The simulator was developed using concepts of operating systems which we had studied during the 
 course.  
 ---
 ## How to Run:
