@@ -4,6 +4,12 @@ In this project, I was tasked to develop an operating system simulator. The simu
 be developed using concepts of operating systems which we had studied during the 
 course.  
 ---
+## How to Run:
+* Project can be run using any C++ IDE.
+* 1. First step is to install any C++ IDE or Compiler.
+  2. After setting up your IDE, make a C++ file.
+  3. Now, copy the code from the main OS.cpp file and compile it.
+---
 ## Functionalities
 The simulator performs the following functionalities:  
 1. _**CPU scheduling:**_  
