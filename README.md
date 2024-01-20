@@ -41,7 +41,7 @@ waiting time burst time etc) for CPU Scheduling accordingly.
         over the others.   
         Feedback Ratio is calculated by the given formula: Feedback Ratio = (W+S)/S   
             Where: W is Waiting Time, S is Service Time or Burst Time.  
-3. _**Semaphore**_  
+3. _**Semaphore**_:  
   * Implemented Dining Philosopher Problem.   
   *   Designed and implemented a solution for the dining philosopher’s problem using semaphores.  
   In this problem, a group of philosophers sit at a round table and alternate between 
@@ -51,7 +51,7 @@ waiting time burst time etc) for CPU Scheduling accordingly.
   must wait until both are available. Use semaphores to ensure that each philosopher 
   is able to eat without creating a deadlock or starvation scenario.(for more information 
   see the slides). 
-3. _**Deadlock:**_   
+3. _**Deadlock:**_:   
 ● Bankers Algorithm: Banker’s algorithm is used to avoid deadlock and allocate resources safely to each process in 
 the computer system.
 ● The 'S-State' examines all possible tests or activities before deciding 
@@ -87,11 +87,11 @@ safe sequence in a banker's algorithm.
 A resource request algorithm checks how a system will behave when a process makes each 
 type of resource request in a system as a request matrix.
   
-4. _**Memory Management**_  
+4. _**Memory Management**_:  
 This section implements the following concepts:  
 ● Two-Level Page-Table Scheme  
 ● Hashed Page Table with TLB   
-5. _**Page Replacement**_   
+5. _**Page Replacement**_:   
 ● Implement Second Chance Algorithm using circular link list.
 ● Also Using Second chance Algorithm calculate No. of Page faults, page fault probability 
 and page fault percentage.
